@@ -270,7 +270,7 @@ body {
 .contact-detail:hover {
   font-size: 1.8em;
   font-weight: bold;
-  color: crimson;
+  color: lime;
   filter: drop-shadow(0 0 1rem white);
 }
 /* End of Contact Section */
