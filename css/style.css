@@ -249,18 +249,18 @@ body {
 .contact-header h2 {
   font-size: 3em;
   font-family: deneane, sans-serif;
-  color: yellow;
+  color: crimson;
 }
 
 .contact-header p {
   font-size: 2em;
-  color: white;
+  color: black;
   padding-bottom: 0.5em;
 }
 
 .contact-links a {
   text-decoration: none;
-  color: white;
+  color: black;
   font-style: 'Lucida Console', sans-serif;
   font-size: 1.5em;
   padding: 1em;
@@ -270,7 +270,7 @@ body {
 .contact-detail:hover {
   font-size: 1.8em;
   font-weight: bold;
-  color: lime;
+  color: crimson;
   filter: drop-shadow(0 0 1rem white);
 }
 /* End of Contact Section */
